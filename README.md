@@ -8,5 +8,5 @@ Modified -> Something got changed in the file
 Staged -> File is in Staging area and can be move it to Local Branch  
 Unmofified -> Nothing got chnaged in the file  
 
-Use git clone <link> to get the copy of the project into the workarea  
+Use **git clone <link>** to get the copy of the project into the workarea  
 
