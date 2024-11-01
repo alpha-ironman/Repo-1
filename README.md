@@ -11,5 +11,5 @@ Unmofified -> Nothing got chnaged in the file
 Use **git clone <link>** to get the copy of the project into the workarea  
 
 
-<span style='color: red;'>add</span> - Adds new or chnaged files in working area to the git staging area -> <span style='color: green;'>*git add <filename>* </span>
-<span style='color: red;'>commit</span> - It is the record of change -> *git commit -m <span style='color: green;'> "some message"* </span>
+**add** - Adds new or chnaged files in working area to the git staging area -> *git add <filename>*
+**commit** - It is the record of change -> *git commit -m 'some message'*
