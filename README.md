@@ -11,5 +11,8 @@ Unmofified -> Nothing got chnaged in the file
 Use **git clone <link>** to get the copy of the project into the workarea  
 
 
-**add** - Adds new or chnaged files in working area to the git staging area -> *git add <filename>*
-**commit** - It is the record of change -> *git commit -m 'some message'*
+**add** - Adds new or chnaged files in working area to the git staging area -> *git add filename*  
+**commit** - It is the record of change -> *git commit -m 'some message'*  
+**push** - Upload local repo content to remote Repo -> *git push origin main*  
+
+  
