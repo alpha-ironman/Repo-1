@@ -55,3 +55,7 @@ Use **git clone <link>** to get the copy of the project into the workarea
 *git reset 'commit hash'* - This is for multiple commits  
 
 *git hash-object _finalname_* - This will give the Hash/ Object Id of the File  
+
+*git log* - This will give the commit history with most recent on the top  
+
+*git show _id_* -  This will show the details about the provided hash id  
