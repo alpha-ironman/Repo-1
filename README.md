@@ -59,3 +59,10 @@ Use **git clone <link>** to get the copy of the project into the workarea
 *git log* - This will give the commit history with most recent on the top  
 
 *git show _id_* -  This will show the details about the provided hash id  
+
+*git tag* - Show all the tags  
+
+*git tag _tag_name_ _commit-value_* -  This will tag the commit value provided, If not defaults to HEAD #used to create lightweight tag  
+
+*git tag -a -m _msg_ / -f _file_ _tagname_ commitvalue* -  This will tag the commnit with message or the file attached to it and that file contains message about that commit, if commit value is not provided then defaults to HEAD  
+
