@@ -76,3 +76,6 @@ s, squash = Use commit, but meld into previous commit
 f, fixup = like "squash", but discard this commit's log message  
 x, exec =  run command using shell  
 d, drop = remove commit  
+
+
+![image](https://github.com/user-attachments/assets/fd6ded77-f0e1-4954-9d34-4762f43ac1bb)
