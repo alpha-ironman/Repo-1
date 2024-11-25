@@ -46,11 +46,13 @@ Use **git clone <link>** to get the copy of the project into the workarea
 
 *git diff 'branch name* - to compare, branches, files & More  
 
-*git merge 'branch name* -  to merge 2 branches  
+*git merge 'branch name* -  to merge 2 branches with **Fast-forward Commit**  
+
+*git merge --no-ff 'branch_name'* - to merge branches with **merge commit**
 
 *git reset 'file name'* -  This is used to get back to the file to the workspace from stagged area  
 
-*git reset HEAD~1* -  This is for commited chnages  
+*git reset HEAD~1* -  This is for commited changes  
 
 *git reset 'commit hash'* - This is for multiple commits  
 
