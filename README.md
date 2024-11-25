@@ -66,3 +66,13 @@ Use **git clone <link>** to get the copy of the project into the workarea
 
 *git tag -a -m _msg_ / -f _file_ _tagname_ commitvalue* -  This will tag the commnit with message or the file attached to it and that file contains message about that commit, if commit value is not provided then defaults to HEAD  
 
+
+#Interactive Commands
+
+p, Pick = Use Commit  
+r, Reword =  Use Commit, but edit the commit message  
+e, edit = Use commit, but stop for amending  
+s, squash = Use commit, but meld into previous commit  
+f, fixup = like "squash", but discard this commit's log message  
+x, exec =  run command using shell  
+d, drop = remove commit  
